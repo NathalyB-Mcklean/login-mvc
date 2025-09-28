@@ -158,9 +158,9 @@ cmd
     - **Github**: githubmcklean@gmail.com
     - **Profesional**: nbmcklean@gmail.com
 - **Curso**: Ingeniería Web
-- **Instructor del Laboratorio**: Ing. Irina Fong
+- **Instructora del Laboratorio**: Ing. Irina Fong
 - **Fecha de Ejecución**: 8 - 14 de septiembre de 2025
-- **última modificación**: 28 de septiembre de 2025
+- **Última modificación**: 28 de septiembre de 2025
 - **Fecha de Entrega**: 29 de septiembre de 2025
 
 
